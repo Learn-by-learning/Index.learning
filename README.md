@@ -26,4 +26,4 @@ Creamos y mejoramos como por ejemplo Guías, Guías de como crear un bot un bot 
 
 Actualmente solo contamos con nuestro servidor de discord y una pagina web en desarrollo... <img src="https://cdn.discordapp.com/emojis/824320414503272508.gif?v=1" width="25px">
 
-<img src="https://cdn.discordapp.com/emojis/771789194099949608.gif?v=1" width="35px"> [**Servidor**](https://www.cointor.cf/discord.html)
+<img src="https://cdn.discordapp.com/emojis/771789194099949608.gif?v=1" width="35px" style="margin-top: 40px;"> [**Servidor**](https://www.cointor.cf/discord.html)
